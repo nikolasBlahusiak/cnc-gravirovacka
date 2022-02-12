@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://NikolasB:vu8GVoOw4qvk1ZzZ@cnc-gravirovacka-0.i9dy2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+	"mongoDB": "cnc-gravirovacka-0"
+}
